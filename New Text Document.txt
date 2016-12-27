@@ -1,0 +1,34 @@
+This is the final json output of categories and sub categories       
+
+
+[
+  {
+    "description": null,
+    "id": 1,
+    "name": "Admin",
+    "subCategories": [
+      {
+        "description": null,
+        "id": 1,
+        "name": "Admin-sub"
+      }
+    ]
+  },
+  {
+    "description": null,
+    "id": 2,
+    "name": "Marketing",
+    "subCategories": [
+      {
+        "description": null,
+        "id": 2,
+        "name": "Marketing-sub"
+      },
+      {
+        "description": null,
+        "id": 4,
+        "name": "MktgAdmin-sub"
+      }
+    ]
+  }
+]
